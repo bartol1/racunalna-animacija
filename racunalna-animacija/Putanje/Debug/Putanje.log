@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Bartol\Desktop\faks\7. semestar\Računalna animacija\laboratorijske vježbe\Putanje\Source.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bartol\Desktop\faks\7. semestar\Računalna animacija\laboratorijske vježbe\Putanje\Source.cpp(63,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bartol\Desktop\faks\7. semestar\Računalna animacija\laboratorijske vježbe\Putanje\Source.cpp(197,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bartol\Desktop\faks\7. semestar\Računalna animacija\laboratorijske vježbe\Putanje\Source.cpp(209,37): warning C4305: '+=': truncation from 'double' to 'float'
+  Putanje.vcxproj -> C:\Users\Bartol\Desktop\faks\7. semestar\Računalna animacija\laboratorijske vježbe\Putanje\Debug\Putanje.exe
+  C:\IRG\Biblioteke\glew-1.13.0\bin\Release\Win32\glew32.dll
+  1 File(s) copied
+  C:\IRG\Biblioteke\freeglut-2.8.1\lib\x86\Debug\freeglut.dll
+  1 File(s) copied

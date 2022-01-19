@@ -1,0 +1,9 @@
+﻿Source.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Source.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+C:\IRG\Biblioteke\freeglut-2.8.1\lib\x86\Debug\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\IRG\Biblioteke\glew-1.13.0\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Bartol\Desktop\faks\7. semestar\Računalna animacija\laboratorijske vježbe\Putanje\x64\Debug\Putanje.exe : fatal error LNK1120: 6 unresolved externals

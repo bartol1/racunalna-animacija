@@ -1,0 +1,1 @@
+﻿C:\Users\Bartol\Desktop\racunalna-animacija\Particles\Particles.vcxproj(62,5): error MSB4019: The imported project "C:\Users\Bartol\Desktop\GLConfig.props" was not found. Confirm that the expression in the Import declaration "..\..\GLConfig.props" is correct, and that the file exists on disk.
